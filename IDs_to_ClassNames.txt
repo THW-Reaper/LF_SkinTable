@@ -1,0 +1,160 @@
+IDs								Class Names
+
+1911								Gun_1911_C
+57								Gun_57_C
+AK12								Gun_AK12_C
+AK47								Gun_AK47_C
+AR								Gun_M4_C
+AUG								Gun_AUG_C
+AntiTank							Gun_AntiTank_C
+AutoShotgun							Gun_AutoShotgun_C
+AutoSniper							Gun_AutoSniper_C
+DE								Gun_DE_C
+DrumShotgun							Gun_DrumShotgun_C
+G43								Gun_G43_C
+LMGA								Gun_LMGA_C
+RL_M1A1								RL_M1A1_C
+RL_PIAT								RL_PIAT_C
+Revolver							Gun_Revolver_C
+Tokarev								Gun_Tokarev_C
+ak								Gun_Pepe_C
+akshorty							Gun_AKshorty_C
+ar9								Gun_AR9_C
+awp								Gun_AWP_C
+bar								Gun_BAR_C
+bren								Gun_Bren_C
+cet9								Gun_Cet9_C
+detectivesmg							Gun_DetectiveKriss_C
+dp27								Gun_DP27_C
+flaregun							Gun_FlarePistol_C
+galul								Gun_Galil_C
+goldengun							Gun_GoldenDE_C
+hunting								Gun_HuntingRifle_C
+kar98								Gun_Kar98_C
+kross								Gun_Kriss_C
+leeenfield							Gun_LeeEnfield_C
+luger								Gun_Luger_C
+m16								Gun_M16_C
+m1garand							Gun_M1Garand_C
+m9								Gun_M9_C
+mg42								Gun_MG42_C
+mosin								Gun_Mosin_C
+mp40								Gun_MP40_C
+mp5								Gun_MP5_C
+newtonlauncher							Gun_NewtonLauncher_C
+p90								Gun_P90_C
+ppsh								Gun_PPSH41_C
+rl_panzer							RL_PanzerSchreck_C
+rl_rpg								RL_RPG7_C
+sawedoff							Gun_Sawedoff_C
+scur								Gun_SCAR20_C
+shotgun								Gun_Shotgun_C
+silentcet9							Gun_SilentCet9_C
+skorpion (Shack only)				
+sks								Gun_SKS_C
+smg								Gun_SMG_C
+sock								Gun_Glock_C
+springfield							Gun_Springfield_C
+sten								Gun_Sten_C
+stg44								Gun_STG44_C
+svt40								Gun_SVT40_C
+tankmg (Old MG42)					
+tankturret (Old M1A1 rocket)		
+taser								Gun_Taser_C
+thompson							Gun_Thompson_C
+tranqgun							Gun_TranqGun_C
+trenchgun							Gun_TrenchGun_C
+uzi								Gun_Uzi_C
+vanas								Gun_Vanas_C
+vzz								Gun_VSS_C
+webley								Gun_Webley_C
+
+
+
+Armour								
+BallisticsShield						Item_BallisticsShield_C
+Canted_Reddot							Canted_Reddot_C
+Flashlight_Rifle						Flashlight_Rifle_C
+Grenade								Grenade_M64_C
+Grip_Angled							Grip_Angled_C
+Grip_Vertical							Grip_Vertical_C
+Holo								Sight_Holo_C
+Knife								Knife_Bayonet_C
+Laser_Pistol							Laser_Pistol_C
+Laser_Rifle							Laser_Rifle_C
+Painkillers							MED_Painkillers_C
+Pliers								Pliers_Basic_C
+PushBomb							Item_PushBomb_C
+Scope								Sight_ScopeX8_C
+Smoke								Grenade_Smoke_C
+Syringe								MED_ReviveToolModern_C
+acog								Sight_ACOG_C
+adrenaline							Item_AdrenalineSyringe_C
+ammo_pistol							AMMO_9mm_C
+ammo_rifle							AMMO_556_C
+ammo_shotgun							AMMO_12Guage_C
+ammo_smg							AMMO_45_C
+ammo_sniper							AMMO_762_C
+ammo_special							AMMO_300_C
+ammocrate							Item_AmmoWW2_C
+antipersonnelmine						Item_PersonnelMine_C
+antitankmine							Item_TellerMine_C
+bandage								item_bandage_C
+bayonet_kar98							Accessory_Bayonet_Kar98_C
+bayonet_leeenfield						Accessory_Bayonet_LeeEnfield_C
+bayonet_m1garand						Accessory_Bayonet_M1Garand_C
+bayonet_mosin							Accessory_Bayonet_Mosin_C
+bayonet_springfield						Accessory_Bayonet_SpringField_C
+bayonet_trenchgun						Accessory_Bayonet_Base_C
+boltcutters							Item_Escape_BoltCutters_C
+cloakdisrupter						
+crowbar								Item_Escape_Crowbar_C
+dnascanner							Item_Scanner_C
+flash								Grenade_Flash_C
+flash_aurora							Grenade_Flash_Infinitum_C
+flash_ru							Grenade_Flash_RU_C
+grenade_dis							Grenade_Discombobulator_C
+grenade_ger							Grenade_M24_C
+grenade_aurora							Grenade_Infinitum_C
+grenade_ru							Grenade_M64_RU_C
+grenade_svt							Grenade_RGD33_C
+grenade_us							Grenade_MK2_C
+handcuffs							Item_Handcuffs_C
+healthstation							Item_Medkit_C
+kevlarhelmet						
+keycard								Item_Keycard_C
+lockpick							Item_Escape_Lockpick_C
+medkit								
+monocular							Item_Monocular_C
+pickaxe								Item_PickAxe_C
+pipe								Item_Pipe_C
+reddot								Sight_RedDot_C
+reddot_pistol							Sight_RedDot_Pistol_C
+repairtool							Item_Escape_RepairTool_C
+scope_kar98							Sight_Scope_Kar98_C
+scope_leeenfield						Sight_Scope_LeeEnfield_C
+scope_mosin							Sight_Scope_Mosin_C
+scope_springfield						Sight_Scope_Springfield_C
+skinhelmet_ger							BP_SkinChangerGer_C
+skinhelmet_svt							BP_SkinChangerSvt_C
+skinhelmet_us							BP_SkinChangerUs_C
+smoke_ger							Grenade_Smoke_NbHgr_39_C
+smoke_ru							Grenade_Smoke_RU_C
+smoke_svt							Grenade_Smoke_RGD2_C
+smoke_us							Grenade_Smoke_M18_C
+snowball							Item_Xmas_Snowball_C
+supp_pistol							Suppressor_Pistol_C
+supp_rifle							Suppressor_Rifle_C
+teleporter							Item_Teleporter_C
+tripalarm							Item_TripAlarm_C
+tttc4								Item_TTTC4_C
+tttknife							Knife_TTT_C
+ww2bandage							item_bandageWW2_C
+ww2knife							Knife_BayonetWW2_C
+ww2medkit							Item_MedkitWW2_C
+ww2painkillers							MED_PainkillersWW2_C
+ww2syringe							MED_ReviveToolWW2_C
+
+
+
+SND BOMB							Bomb_Basic_C

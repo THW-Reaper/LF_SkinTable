@@ -1,0 +1,50 @@
+{
+    "Common":[
+"1911",
+"57",
+"cet9",
+"sock",
+"Tokarev",
+"webley",
+"m9",
+"Revolver",
+"DE",
+"AutoShotgun",
+"ak",
+"akshorty",
+"ar9",
+"kross",
+"mp40",
+"mp5",
+"p90",
+"ppsh",
+"smg",
+"sten",
+"thompson",
+"uzi",
+"vzz",
+"skorpion",
+"sawedoff",
+"trenchgun",
+"shotgun"
+    ],
+    "ammo":[
+       "ammo_pistol",
+       "ammo_rifle",
+       "ammo_shotgun",
+       "ammo_smg",
+       "ammo_sniper"
+    ],
+    "util":[
+
+    ],
+    "misc":[
+
+    ],
+    "rare":[
+
+    ],
+    "epic":[
+
+    ]
+}
