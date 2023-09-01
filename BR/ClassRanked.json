@@ -36,15 +36,45 @@
        "ammo_sniper"
     ],
     "util":[
-
+        "Smoke",
+        "flash",
+        "flash_ru",
+        "grenade_ru",
+        "grenade_us",
+        "smoke_ru",
+        "smoke_us"
+    ],
+    "meds":[
+        "Painkillers",
+        "adrenaline",
+        "ww2painkillers",
+        "ww2bandage",
+        "bandage"
     ],
     "misc":[
 
     ],
     "rare":[
-
+"springfield",
+"hunting",
+"kar98",
+"leeenfield",
+"mosin",
+"m16",
+"m1garand",
+"galul",
+"bar",
+"bren",
+"vanas",
+"AUG"
     ],
     "epic":[
-
+"pkm",
+"LMGA",
+"AR",
+"AntiTank",
+"AK47",
+"AutoSniper",
+"scur"
     ]
 }
